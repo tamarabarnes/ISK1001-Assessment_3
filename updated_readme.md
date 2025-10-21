@@ -19,8 +19,6 @@ The project demonstrates:
 3. Error Handling & Logging through Python’s built-in `logging` library.
 4. Randomisation via dice rolls to determine combat outcomes.
 
----
-
 ## Features of the Game
 
 - Turn-Based Combat: Uses dice rolls to decide attack and defense results.
@@ -30,7 +28,6 @@ The project demonstrates:
 - Boss Encounters: Includes both a main and optional boss.
 - Error Logging: Combat errors are automatically logged for developer review.
 
-
 ## Setup & Installation
 
 ### Requirements
@@ -38,25 +35,34 @@ The project demonstrates:
 - Python: Version 3.12.3 or higher
 - Code Editor: VS Code, PyCharm, Atom, or Sublime
 - OS: Windows 10+, macOS 10.11+, or Ubuntu 16.04+
+- No external packages need to be installed. All libraries used are built into Python and require no additional setup.
 
-### Installation Steps
-
-1. Download or clone this repository.
-2. Open the project folder in your chosen code editor.
-3. In your terminal, navigate to the folder containing `main.py`.
-4. Run the program with:
-
-   ``` python
-   python3 main.py
-   ```
-
-## System Requirements
+### System Requirements
 1. OS: Windows 10+, macOS 10.11+, choice of terminal (e.g. Ubuntu 16.04)
 2. Processor: 1.6GHz dual-core or faster
 3. Memory (RAM): 4GB
 4. Storage: < 500MB
 5. Display: laptop or computer display size is sufficient
 6. GPU: Not required (text-based game)
+
+### Installation Steps
+
+1. Get the Project Files - Download or clone this repository on your terminal.
+```bash
+git clone https://github.com/Cooper-W1408/Python_RPG.git
+```
+2. Open the project folder in your chosen code editor. For VScode, type in your terminal:
+```bash
+code .
+```
+3. Navigate to the Project Directory containing `main.py`– Use the terminal to move into the project's folder: 
+```bash
+cd path/to/project/Python_RPG/test/main.py
+```
+4. Run the program with:
+ ``` python
+python3 main.py
+```
 
 ## How to Play
 
@@ -94,8 +100,7 @@ Example:
 - Type "look" to observe your surroundings.
 - Type "interact" to trigger events or collect items.
 
-## Libraries Utilised
-![Table of Libraries used](<libraries-table.png>)
+
 
 ## Example Code Documentation
 
@@ -129,25 +134,26 @@ class Player:
 - Variables: Name, health, attack, and defense.
 - Inheritance: None, this is a standalone class.
 
-## Ethics & Licensing
+## Ethical Considerations
+This CLI application was developed with a strong commitment to ethical coding practices. We believe that even lightweight tools should respect users’ rights, foster inclusivity, and promote transparency. Below are the key principles guiding our development:
+### Privacy and Data Protection
+We do not collect, transmit, or store any personal data. All logs and save files remain local to the user's device. No telemetry, analytics, or remote tracking tools are used. This ensures full user control and aligns with ethical standards for data minimization and transparency.
+### Accessibility and Inclusivity
+The application is designed to run in standard terminal environments with minimal system requirements. We use clear language, intuitive commands, and simple outputs to support users of all technical backgrounds. Color-coded messages (when used) follow accessibility guidelines, and help flags (--help) are available for every command.
+### Transparency and Clarity
+All features, behaviors, and dependencies are documented. We avoid hidden processes or assumptions, and provide clear instructions for installation, usage, and troubleshooting. The source code is open and readable, allowing users to understand and modify the tool freely.
+### Error Handling and Safety
+We implement structured error handling to prevent crashes and confusion. Errors are logged locally and explained in plain language. Input validation is used to avoid unintended consequences, and destructive actions (like file overwrites) require explicit confirmation.
+### Respect for User Autonomy
+Users retain full control over how they use, modify, and share the application. There are no forced updates, background processes, or locked features. We encourage customization and provide guidance for adapting the tool to individual needs.
 
-- All libraries are open source under the Python Software Foundation License (PSFL).
-- The project is distributed under the MIT License, allowing reuse with attribution.
-* No personal data is collected and all save files remain local to the user’s computer.
-* All code and text are original creations by the team.
-* Accessibility: Works in all terminal environments and requires minimal system resources.
-* Follows ethical coding principles therefore is transparent, open source, and respectful of user privacy.
+## Licensing
+- The project is distributed under the **MIT License**, allowing reuse, modify, and distribute this software with attribution. For more details please view the MIT license overview: https://opensource.org/licenses/MIT 
 
-## License (MIT)
+- All standard Python library modules, are upon of **Python Software Foundation License (PSFL)**. We're free to use, modify, and distribute without restrictions. Ethically safe—commonly used in Python projects, see more details in https://docs.python.org/3/license.html
 
-This project is distributed under the MIT License. 
-
-Permissions:
-- Free use, copying, and modification allowed
-- Commercial use permitted with attribution
-- No warranty provided
-
-For more details please view the MIT license overview: https://opensource.org/licenses/MIT 
+## Libraries Utilised
+![Table of Libraries used](<libraries-table.png>)
 
 ## Error Handling
 
@@ -157,10 +163,9 @@ For more details please view the MIT license overview: https://opensource.org/li
 - Players can forward this log to the development team for bug reports.
 
 ## Feedback Log
-- ADD HERE 
+- See the [`Feedback Log`](feedbacklog.md) file for details.
 
 ## Future Development
-
 As this is a learning project, upcoming beginner-friendly improvements include:
 
 - Expanded Map System: Add more grid locations or unlock new zones after defeating bosses.
@@ -168,8 +173,8 @@ As this is a learning project, upcoming beginner-friendly improvements include:
 - Visual Enhancements: Use ASCII art or color formatting (e.g., via the rich library) to make the game more immersive.
 - Difficulty Settings: Include “easy,” “normal,” and “hard” modes to adjust enemy health and attack.
 
-## References
 
+## References
 1. Python Software Foundation License (PSFL): [https://docs.python.org/3/license.html](https://docs.python.org/3/license.html)
 2. MIT License Overview: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 3. W3C Accessibility Principles: [https://www.w3.org/WAI/fundamentals/accessibility-principles/](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
