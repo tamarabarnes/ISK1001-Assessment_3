@@ -145,10 +145,10 @@ Status: Completed
 
 ------------------------------
 # Feedback Received
-1. Date:  
-Contributor:  
-Area of Feedback:  
-Observation / Issue:  
-Suggested Improvement:  
-Action Taken:  
-Status: [Pending / Completed]  
+1. Date:  10/21
+Contributor:  Tamara
+Area of Feedback:  Libraries
+Observation / Issue:  Little to no information regarding the libraries imported for the terminal app. 
+Suggested Improvement:  Add description of each library used
+Action Taken: Below the libaries table, added a description of what each libary does and how its relevant to the terminal app
+Status: completed
