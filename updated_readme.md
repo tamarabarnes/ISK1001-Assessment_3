@@ -167,7 +167,6 @@ Users retain full control over how they use, modify, and share the application. 
 ![Table of Libraries used](<libraries-table.png>)
 
 ## Error Handling
-
 - This game included error handling to ensure smooth gameplay and easier debugging
 - The logging library automatically creates a file named `Combat_errors.log`.
 - If errors occur during gameplay, they’re recorded for review.
