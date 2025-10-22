@@ -151,6 +151,19 @@ Users retain full control over how they use, modify, and share the application. 
 - All standard Python library modules, are upon of **Python Software Foundation License (PSFL)**. We're free to use, modify, and distribute without restrictions. Ethically safe—commonly used in Python projects, see more details in https://docs.python.org/3/license.html
 
 ## Libraries Utilised
+1. random
+- The random library is used to generate random numbers or make random selections
+- Used in this terminal app to generate random dice rolls
+2. json
+- Used to work with JSON data to store data 
+- Used in this terminal app so users can save their stats (name, health power, attack) so they can come back later and continue playing the game
+3. sys (system)
+- The sys library (short for system) lets Python code interact directly with the system that’s running it, in this case the terminal terminal
+- For this terminal app, it’s mainly used to exit or terminate the program safely when the player chooses to quit.
+4. os (Operating system)
+- The os library allows the Python program communicate directly with the computers files, folders, and terminal commands.
+- In this terminal app, it’s mainly used to clear the terminal screen so that every menu or update looks clean and easy to read.
+
 ![Table of Libraries used](<libraries-table.png>)
 
 ## Error Handling
