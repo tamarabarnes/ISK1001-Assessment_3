@@ -9,12 +9,12 @@ Update the "Action Taken" and "Status" fields as progress is made.
 
 ## Entry Format:
 ------------------------------
-Date: yyyy - mm - dd  
+Date: yyyy-mm-dd  
 Contributor: Name  
 Area of Feedback: [feat: (new feature), fix: (bug fix), docs: (documentation), style: (code style), refactor: (code refactoring), or test: (tests) to categorize commits. ]  
 Observation / Issue: Brief summary of your feedback  
 Suggested Improvement: Brief summary of your suggestion
-Action Taken: Brief summary of team action for the issue.
+Action Taken: Brief summary of team action for the issue.  
 Status: [Pending / Completed]
 
 ### Example Entry:
@@ -28,7 +28,7 @@ Action Taken: Drafted paragraph and shared with team
 Status: Completed  
 
 ------------------------------
-# Feedback Given
+# Feedback
 1. Date: 2025-10-20  
 Contributor: Tamara  
 Area of Feedback: docs  
@@ -141,14 +141,29 @@ Suggested Improvement: Add a structured “Ethical Considerations” section wit
 Action Taken: Drafted a new section with clear explanations under each ethical heading, emphasizing user safety, autonomy, and inclusive design.  
 Status: Completed
 
-
-
-------------------------------
-# Feedback Received
-1. Date:  10/21
-Contributor:  Tamara
-Area of Feedback:  Libraries
-Observation / Issue:  Little to no information regarding the libraries imported for the terminal app. 
+15. Date:  2025-10-21  
+Contributor:  Tamara  
+Area of Feedback:  Libraries  
+Observation / Issue:  Little to no information regarding the libraries imported for the terminal app.   
 Suggested Improvement:  Add description of each library used
-Action Taken: Below the libaries table, added a description of what each libary does and how its relevant to the terminal app
-Status: completed
+Action Taken: Below the libaries table, added a description of what each libary does and how its relevant to the terminal app  
+Status: Completed  
+
+16. Date: 2025-10-23  
+Contributor: Brando  
+Area of Feedback: docs  
+Observation / Issue: I read through the original README and the updated README, the latter provided a fantastic overview of the application and how to use it. It was a very professional, refined document. It covered privacy, information storage, use, troubleshooting, system requirements etc – and when I used the application, I was able to follow the README well.  
+Suggested Improvement: The only improvements I would suggest are superficial in nature:  
+-> There were occasional spelling mistakes which makes the project feel slightly less professional.  
+-> I also felt as a user that there was a lot of text with not a lot to break that up, both in the documentation and in the app. Being someone who gets easily overwhelmed by a lot of text, I think the success of the app could be improved by adding game graphics to the README documentation (and as suggested in your own ‘Future Development’ section some ASCII art or formatting). It would allow you to start imagining the game a lot quicker and spark more interest.  
+Considering this game discusses ancient manuscripts, skeletons and the like – including quick to make graphics (thanks ChatGPT) could enhance the readability and interest in your documentation
+Action Taken: - Spelling Corrections and formatting improvements were reviewed, identified and corrected. Visual Enhancements will implemented in the future.
+Status: Completed
+
+17. Date: yyyy-mm-dd  
+Contributor: Name  
+Area of Feedback: [feat: (new feature), fix: (bug fix), docs: (documentation), style: (code style), refactor: (code refactoring), or test: (tests) to categorize commits. ]  
+Observation / Issue: Brief summary of your feedback  
+Suggested Improvement: Brief summary of your suggestion
+Action Taken: Brief summary of team action for the issue.
+Status: [Pending / Completed]
