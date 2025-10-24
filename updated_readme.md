@@ -57,7 +57,7 @@ code .
 ```
 3. Navigate to the Project Directory containing `main.py`– Use the terminal to move into the project's folder: 
 ```bash
-cd path/to/project/Python_RPG/test/main.py
+cd path/to/project/Python_RPG/test
 ```
 4. Run the program with:
  ``` python
@@ -72,7 +72,7 @@ The game provides interactive prompts throughout — simply follow on-screen tex
 
 The map is a 4x4 grid labeled A1–D4, representing rows (A–D) and columns (1–4).
 You move by typing "UP", "DOWN", "LEFT" or "RIGHT" in the terminal. 
-for example, if you are at B2 and type UP in the terminal, your new location becomes A2.
+For example, if you are at B2 and type UP in the terminal, your new location becomes A2.
 
 ![Diagram of A1-D4 grid](<sample_grid.png>)
 
