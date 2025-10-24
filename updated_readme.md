@@ -57,7 +57,7 @@ code .
 ```
 3. Navigate to the Project Directory containing `main.py`– Use the terminal to move into the project's folder: 
 ```bash
-cd path/to/project/Python_RPG/test/main.py
+cd path/to/project/Python_RPG/test
 ```
 4. Run the program with:
  ``` python
@@ -72,7 +72,7 @@ The game provides interactive prompts throughout — simply follow on-screen tex
 
 The map is a 4x4 grid labeled A1–D4, representing rows (A–D) and columns (1–4).
 You move by typing "UP", "DOWN", "LEFT" or "RIGHT" in the terminal. 
-for example, if you are at B2 and type UP in the terminal, your new location becomes A2.
+For example, if you are at B2 and type UP in the terminal, your new location becomes A2.
 
 ![Diagram of A1-D4 grid](<sample_grid.png>)
 
@@ -182,6 +182,13 @@ As this is a learning project, upcoming beginner-friendly improvements include:
 - Simple Quest System: Introduce basic side quests that reward health potions or weapons.
 - Visual Enhancements: Use ASCII art or color formatting (e.g., via the rich library) to make the game more immersive.
 - Difficulty Settings: Include “easy,” “normal,” and “hard” modes to adjust enemy health and attack.
+
+## Team Section
+At the time the project was defined, the team initially consisted of Cooper, Lorena, and Tamara—listed in alphabetical order.
+Although Cooper was part of the original group and his project was selected for development, his engagement gradually declined during the execution phase. Aside from sharing his CLI project repository, he did not contribute to the work. Eventually, on Thursday, October 23rd, he left the group without providing any explanation.
+
+* Lorena Borges - feedback log, document and slide review
+* Tamara Barnes - Readme file update, slides and presentation recording 
 
 
 ## References
