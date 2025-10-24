@@ -183,6 +183,13 @@ As this is a learning project, upcoming beginner-friendly improvements include:
 - Visual Enhancements: Use ASCII art or color formatting (e.g., via the rich library) to make the game more immersive.
 - Difficulty Settings: Include “easy,” “normal,” and “hard” modes to adjust enemy health and attack.
 
+## Team Section
+At the time the project was defined, the team initially consisted of Cooper, Lorena, and Tamara—listed in alphabetical order.
+Although Cooper was part of the original group and his project was selected for development, his engagement gradually declined during the execution phase. Aside from sharing his CLI project repository, he did not contribute to the work. Eventually, on Thursday, October 23rd, he left the group without providing any explanation.
+
+* Lorena Borges - feedback log, document and slide review
+* Tamara Barnes - Readme file update, slides and presentation recording 
+
 
 ## References
 1. Python Software Foundation License (PSFL): [https://docs.python.org/3/license.html](https://docs.python.org/3/license.html)

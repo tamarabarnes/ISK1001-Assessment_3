@@ -1,6 +1,6 @@
 # FEEDBACK LOG - Perilous Python V1.0 Project
 
-Team Members: Copper, Lorena and Tamara
+Team Members: Lorena and Tamara
 
 ### Notes:
 Use this log to track feedback throughout the project. 
