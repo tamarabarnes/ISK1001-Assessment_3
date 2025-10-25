@@ -188,10 +188,10 @@ Suggested Improvement:
 Action Taken: All improvements suggested were implemented.
 Status: Completed
 
-20. Date: yyyy-mm-dd  
-Contributor: Name  
-Area of Feedback: [feat: (new feature), fix: (bug fix), docs: (documentation), style: (code style), refactor: (code refactoring), or test: (tests) to categorize commits. ]  
-Observation / Issue: Brief summary of your feedback  
-Suggested Improvement: Brief summary of your suggestion
-Action Taken: Brief summary of team action for the issue.
-Status: [Pending / Completed]
+19. Date: 2025-10-24
+Contributor: Zali 
+Area of Feedback:  READ ME,docs (documentation)  
+Observation / Issue: Overall the work is great, clear and easy to understand how to partake in the game. Its a really cool app. Something that could be an addition is a gif or more grabs of the game in motion to give as assets - to give users understanding of all the rules/ways of playing.  
+Suggested Improvement: Addition of more screengrabs of game in use.  
+Action Taken: All visual enhancements were presented and will implemented in the future.  
+Status: Completed
