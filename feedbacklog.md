@@ -178,7 +178,17 @@ Suggested Improvement: Overall, the `updated_readme.md` document is a huge impro
 Action Taken: All visual enhancements were presented and will implemented in the future.
 Status: Completed
 
-18. Date: yyyy-mm-dd  
+18. Date: 2025-10-24
+Contributor: Courtney Macgregor
+Area of Feedback: updated_readme.md - Purpose of the Application & Installation Steps sections  
+Observation / Issue: The setup and installation steps are clear and easy to follow, but the example path (cd path/to/project/Python_RPG/test/main.py) uses “test” instead of the correct “tests” directory. It also points to the file rather than the folder. There is a small spelling mistake in the README where “combin learning” should be “combine learning.” Overall, the documentation reads well, and the game itself was a fun experience to test out.  
+Suggested Improvement: 
+•    Fix directory path: Update the example to use tests instead of test, and lead to the directory rather than the file (cd path/to/project/Python_RPG/tests).
+•    Correct typo: Change “combin learning” to “combine learning.”
+Action Taken: All improvements suggested were implemented.
+Status: Completed
+
+20. Date: yyyy-mm-dd  
 Contributor: Name  
 Area of Feedback: [feat: (new feature), fix: (bug fix), docs: (documentation), style: (code style), refactor: (code refactoring), or test: (tests) to categorize commits. ]  
 Observation / Issue: Brief summary of your feedback  
