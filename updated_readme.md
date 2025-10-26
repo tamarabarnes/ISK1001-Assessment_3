@@ -10,7 +10,7 @@ This project was developed as part of a software development learning module to 
 
 ## Purpose of the Application
 
-Perilous Python was created to combin learning with creativity, allowing players to experience an RPG adventure while developers gain hands on practice with Python fundamentals.
+Perilous Python was created to combine learning with creativity, allowing players to experience an RPG adventure while developers gain hands on practice with Python fundamentals.
 
 The project demonstrates:
 
@@ -184,7 +184,7 @@ As this is a learning project, upcoming beginner-friendly improvements include:
 - Difficulty Settings: Include “easy,” “normal,” and “hard” modes to adjust enemy health and attack.
 
 ## Team Section
-At the time the project was defined, the team initially consisted of Cooper, Lorena, and Tamara—listed in alphabetical order.
+At the time the project was defined, the team initially consisted of Cooper, Lorena, and Tamara—listed in alphabetical order.  
 Although Cooper was part of the original group and his project was selected for development, his engagement gradually declined during the execution phase. Aside from sharing his CLI project repository, he did not contribute to the work. Eventually, on Thursday, October 23rd, he left the group without providing any explanation.
 
 * Lorena Borges - feedback log, document and slide review

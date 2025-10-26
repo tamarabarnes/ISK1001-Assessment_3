@@ -178,10 +178,20 @@ Suggested Improvement: Overall, the `updated_readme.md` document is a huge impro
 Action Taken: All visual enhancements were presented and will implemented in the future.
 Status: Completed
 
-18. Date: yyyy-mm-dd  
-Contributor: Name  
-Area of Feedback: [feat: (new feature), fix: (bug fix), docs: (documentation), style: (code style), refactor: (code refactoring), or test: (tests) to categorize commits. ]  
-Observation / Issue: Brief summary of your feedback  
-Suggested Improvement: Brief summary of your suggestion
-Action Taken: Brief summary of team action for the issue.
-Status: [Pending / Completed]
+18. Date: 2025-10-24
+Contributor: Courtney Macgregor
+Area of Feedback: updated_readme.md - Purpose of the Application & Installation Steps sections  
+Observation / Issue: The setup and installation steps are clear and easy to follow, but the example path (cd path/to/project/Python_RPG/test/main.py) uses “test” instead of the correct “tests” directory. It also points to the file rather than the folder. There is a small spelling mistake in the README where “combin learning” should be “combine learning.” Overall, the documentation reads well, and the game itself was a fun experience to test out.  
+Suggested Improvement: 
+•    Fix directory path: Update the example to use tests instead of test, and lead to the directory rather than the file (cd path/to/project/Python_RPG/tests).
+•    Correct typo: Change “combin learning” to “combine learning.”
+Action Taken: All improvements suggested were implemented.
+Status: Completed
+
+19. Date: 2025-10-24
+Contributor: Zali 
+Area of Feedback:  READ ME,docs (documentation)  
+Observation / Issue: Overall the work is great, clear and easy to understand how to partake in the game. Its a really cool app. Something that could be an addition is a gif or more grabs of the game in motion to give as assets - to give users understanding of all the rules/ways of playing.  
+Suggested Improvement: Addition of more screengrabs of game in use.  
+Action Taken: All visual enhancements were presented and will implemented in the future.  
+Status: Completed
