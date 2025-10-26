@@ -1,3 +1,12 @@
+## Industry Skills 1 - Assessement 3 - Professional Documentation
+### Presentation
+- [`ISK1001 Assessement 3 Presentation`](https://www.canva.com/design/DAG18F21wYk/rAERiaIlmfFiofPpdzzYUg/view?utm_content=DAG18F21wYk&utm_campaign=designshare&utm_medium=link&utm_source=recording_view).
+### Git Hub repositories
+- [`Tamara ISK1003-Assessment 3 Repo`](https://github.com/tamarabarnes/ISK1001-Assessment_3)
+- [`Lorena ISK1003-Assessment 3 Repo`](https://github.com/lorenaborges256/ISK1001-Assessment_3)
+
+_______________________________________________________________________________________
+_______________________________________________________________________________________
 # Perilous Python V1.0 #
 
 Welcome to the first iteration of my first Python based Game!

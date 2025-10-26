@@ -194,6 +194,4 @@ Although Cooper was part of the original group and his project was selected for 
 ## References
 1. Python Software Foundation License (PSFL): [https://docs.python.org/3/license.html](https://docs.python.org/3/license.html)
 2. MIT License Overview: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
-3. W3C Accessibility Principles: [https://www.w3.org/WAI/fundamentals/accessibility-principles/](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
-
-
+3. W3C Accessibility Principles: [https://www.w3.org/WAI/fundamentals/accessibility-principles/](https://www.w3.org/WAI/fundamentals/accessibility-principles/) 
